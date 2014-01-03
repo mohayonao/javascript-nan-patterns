@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "mocha": "~1.16.2"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec index.js"
+  }
+}
