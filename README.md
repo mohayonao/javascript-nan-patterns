@@ -1,4 +1,4 @@
-# JavaScript NaN Patterns [![Build Status](https://api.travis-ci.org/mohayonao/javascript-nan-patterns.png?branch=gh-pages)](https://travis-ci.org/mohayonao/javascript-nan-patterns)
+# JavaScript NaN Patterns [![Build Status](https://api.travis-ci.org/mohayonao/javascript-nan-patterns.png?branch=master)](https://travis-ci.org/mohayonao/javascript-nan-patterns)
 
 http://mohayonao.github.io/javascript-nan-patterns/
 
