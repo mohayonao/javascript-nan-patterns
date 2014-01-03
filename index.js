@@ -21,6 +21,13 @@ describe("JavaScript NaN Patterns", function() {
     
     assert.isNotNaN( + new Date() );
   });
+  it("The calculations with NaN", function() {
+    assert.isNaN( 0 * NaN );
+    assert.isNaN( NaN - NaN );
+    assert.isNaN( Math.max(Infinity, NaN) );
+    
+    assert.isNotNaN( !NaN );
+  });
   it("The additions inf + -inf", function() {
     assert.isNaN( +Infinity + -Infinity );
     assert.isNaN( -Infinity + +Infinity );
